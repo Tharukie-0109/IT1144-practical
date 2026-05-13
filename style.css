@@ -1,0 +1,39 @@
+body{
+background-color:black;
+}
+.navbar{
+	background-color:black;
+	border:2px solid red;
+	padding:15px;
+	display:flex;
+	justify-content:space-around;
+}
+.navbar a{
+	color:white;
+	text-decoration:none;
+	padding:10px;
+}
+.navbar a:hover{
+	background-color:gray;
+border-radius:5px;
+}
+	
+h1{
+   color:red;
+}
+h2,h4,tr,th{
+	color:white;
+	}
+	label{
+		color:white;
+	}
+	input,select{
+		background-color:black;
+		color:white;
+		border:1px solid white;
+	}
+	a:link{
+		color:white;
+	}
+		
+	
